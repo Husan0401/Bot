@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import logging
 
 # Установка токена вашего бота
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "6701923539:AAHUnaECT_EvqUY_jGVqXMFaXfT18-5nlNk"
 
 # Инициализация бота
 bot = telegram.Bot(token=TOKEN)
